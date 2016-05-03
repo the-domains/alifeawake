@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I believe that one of the most profoundly impactful things we can do is gain a little perspective. Our focus has a tendency to naturally narrow, on our accomplishments, our struggles, our pain, and our desires, in such a way that our vision becomes distorted. Nearsightedness is spiritually crippling. Sometimes the solution is more simple than the problem makes it appear. Ready for it?'
-datePublished: '2016-05-03T20:01:15.415Z'
-dateModified: '2016-05-03T20:00:55.805Z'
+datePublished: '2016-05-03T20:11:48.684Z'
+dateModified: '2016-05-03T20:11:32.782Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-perspective.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-perspective.md
-published: true
 url: perspective/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab1b852-4403-486c-b83e-54da04838fb5.jpg)
+
 I believe that one of the most profoundly impactful things we can do is gain a little perspective. Our focus has a tendency to naturally narrow, on our accomplishments, our struggles, our pain, and our desires, in such a way that our vision becomes distorted. Nearsightedness is spiritually crippling. Sometimes the solution is more simple than the problem makes it appear. Ready for it?
 
 Stand next to something big.
