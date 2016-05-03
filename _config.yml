@@ -1,7 +1,7 @@
 name: A Life Awake
 favicon: null
-layout_spectrum: 0.6815041843801737
-typography_spectrum: 0.6303863120265305
+layout_spectrum: 0.95655
+typography_spectrum: 0.38481
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#aeb4b2'
+    - '#878d8b'
+    - '#5097b3'
+    - '#606a6c'
+    - '#2a728b'
   brandStrength: 0.7783184670843184
   lightness: 0.01354200392961502
   saturation: 0.24200159730389714
