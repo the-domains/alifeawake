@@ -2,6 +2,7 @@ name: A Life Awake
 favicon: null
 layout_spectrum: 0.95655
 typography_spectrum: 0.38481
+title: A Life Awake
 cta:
   domain: null
   bucket: null
