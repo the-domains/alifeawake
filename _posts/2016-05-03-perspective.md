@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I believe that one of the most profoundly impactful things we can do is gain a little perspective. Our focus has a tendency to naturally narrow, on our accomplishments, our struggles, our pain, and our desires, in such a way that our vision becomes distorted. Nearsightedness is spiritually crippling. Sometimes the solution is more simple than the problem makes it appear. Ready for it?'
-datePublished: '2016-05-03T20:11:48.684Z'
-dateModified: '2016-05-03T20:11:32.782Z'
+datePublished: '2016-05-03T20:27:53.534Z'
+dateModified: '2016-05-03T20:11:53.735Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-perspective.md
