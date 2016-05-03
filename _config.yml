@@ -1,0 +1,28 @@
+name: A Life Awake
+favicon: null
+layout_spectrum: 0.6815041843801737
+typography_spectrum: 0.6303863120265305
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7783184670843184
+  lightness: 0.01354200392961502
+  saturation: 0.24200159730389714
+  rhythmicContrast: 0.06784289865754545
+purpose: []
